@@ -1,5 +1,0 @@
-Visto en clase anterior: 
-
-En la clase anterior abordamos las primeras instancias de la creacion,
-inicializacion y demas comandos de un proyecto en git bash. Con la explicacion de los 
-comandos basicos para manipularlo ya sea creandolo, actualizandolo y eliminandolo.
