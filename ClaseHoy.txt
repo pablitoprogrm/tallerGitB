@@ -1,0 +1,6 @@
+Clase de hoy: 
+
+Continuamos con la explicacion de comandos en gitbash con la 
+aplicacion de los mismos con una retroalimentacion hecha por la docente
+para medir el conocimiento adquirido por los estudiantes, luego procedemos 
+con la realizacion de una actividad en gitbash.
